@@ -1,8 +1,10 @@
 ## Olá, me chamo Luis Henrique 👋
-Graduado em sistemas para internet, estou desenvolvendo um 
-sistema multi-tenant para autopeças enquanto aprofundo conhecimentos em Node.JS e Django. Atualmente estou em busca da minha primeira oportunidade no mercado de tecnologia.
+Graduado em Sistemas para Internet, estou desenvolvendo um 
+sistema multi-tenant para autopeças enquanto aprofundo conhecimentos em Node.js e Django. Atualmente estou em busca da minha primeira oportunidade no mercado de tecnologia.
+
 Tenho foco em desenvolvimento back-end, gosto de planejar e estruturar sistemas e pensar
 em soluções para implementar cada funcionalidade do software.
+
 ### Tecnologias:
 ![Django](https://img.shields.io/badge/Django-1E6B4E?style=flat&logo=django&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/NodeJS-FA04E?style=flat&logo=nodedotjs&logoColor=white)
