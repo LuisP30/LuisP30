@@ -14,6 +14,7 @@ em soluções para implementar cada funcionalidade do software.
 ![Json Web Tokens](https://img.shields.io/badge/JWT-F53F8E?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)
 
+<br>
 
-📩 E-mail: <a href="mailto:pimenta.lh2@gmail.com">pimenta.lh2@gmail.com</a><br> <br>
-💼 Linkedin: <a href="https://www.linkedin.com/in/luis21/">luis21</a>
+<a href="https://www.linkedin.com/in/luis21/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:pimenta.lh2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
